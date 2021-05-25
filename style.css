@@ -1,0 +1,12 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.peson_block {
+  display: flex;
+}
+
+.peson_block > img {
+  margin: 1em;
+}
